@@ -1,0 +1,11 @@
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\obj\Debug\netcoreapp2.2\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\obj\Debug\netcoreapp2.2\CleanCode.AssemblyInfoInputs.cache
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\obj\Debug\netcoreapp2.2\CleanCode.AssemblyInfo.cs
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\bin\Debug\netcoreapp2.2\CleanCode.deps.json
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\bin\Debug\netcoreapp2.2\CleanCode.runtimeconfig.json
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\bin\Debug\netcoreapp2.2\CleanCode.runtimeconfig.dev.json
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\bin\Debug\netcoreapp2.2\CleanCode.dll
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\bin\Debug\netcoreapp2.2\CleanCode.pdb
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\obj\Debug\netcoreapp2.2\CleanCode.dll
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\obj\Debug\netcoreapp2.2\CleanCode.pdb
+C:\Users\f0031329\Documents\Estudo\Cases\dotnetcore-cleancode\CleanCode\CleanCode\obj\Debug\netcoreapp2.2\CleanCode.csprojAssemblyReference.cache

@@ -73,6 +73,9 @@ In summary "Children class never should violate parent class type definition".
 This occur when Square perform calculate in your SetWidth and SetHeight methods.
 The GetArea from parent class return mistake result.
 
+ShapeBase class was created and Rectangle and Square implements it.
+The responsibility to change fields are the children.
+
 
 Good:
 
